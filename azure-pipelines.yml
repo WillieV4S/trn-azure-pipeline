@@ -20,5 +20,6 @@ steps:
     ls -l
     echo "##[debug]Helyi mappa"
     pwd
+    env
     echo See https://aka.ms/yaml
   displayName: 'Többsoros parancs! by WillieV4S'
